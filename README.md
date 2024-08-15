@@ -1,6 +1,6 @@
 # DFP-Dataset
 This dataset is used in the paper Multi-Target Device-Free Positioning Based on Spatial-Temporal mmWave Point Cloud.
-Following, we introduce the composition and implementation details of this dataset.
+Following, we introduce the composition of this dataset.
 
 # Data:
 1. Multi-target positioning raw data in indoor and outdoor scenarios.
