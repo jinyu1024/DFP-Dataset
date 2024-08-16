@@ -23,4 +23,4 @@ Following, we introduce the composition of this dataset.
 
 
 
-**If you encounter any issues or if the links are no longer active, please feel free to contact the author at wujingmiao@dlmu.edu.cn.**
+**If you encounter any issues or if the links are no longer active, please feel free to contact the author at jmwu@imu.edu.cn.**
